@@ -1,8 +1,5 @@
 # In-The-Crossfire
-View an endlessly looping video through a crosshair.
-
-<p><b><i>How to Use:</i></b></p>
-<p>Mouse over the section you wish to see.</p>
+A crosshair overlay on top of an endlessly looping video. The crosshair is mouse-controlled. 
 
 <i><b><p>Sample Output:</b></i></p>
 
@@ -16,3 +13,8 @@ View an endlessly looping video through a crosshair.
 
 <p>Video <i>(Description available 
 <a href="https://processing.org/reference/libraries/video/index.html">here</a>.)</p></i>
+
+<p><b><i>Video credits:</i></b></p>
+<p>Museum of Science and Industry, Chicago 
+<i>(See original video
+<a href=https://www.youtube.com/watch?v=pjF5uaJ0ANI>here</a>.)</i></p>
