@@ -4,7 +4,8 @@ View an endlessly looping video through a crosshair.
 <p><b><i>How to Use:</i></b></p>
 <p>Mouse over the section you wish to see.</p>
 
-<p><b><i>Sample Output:</i></b></p>
+<i><b><p>Sample Output:</b></i></p>
+
 ![Output](https://user-images.githubusercontent.com/29173873/34388619-bc5f96d2-eb5a-11e7-8896-c00a6f921ad0.gif)
 
 <i><b>Software Used:</i></b>
